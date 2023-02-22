@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+BotYoutube/__init__.py
+BotYoutube/__main__.py
+BotYoutube/bot.py
+BotYoutube.egg-info/PKG-INFO
+BotYoutube.egg-info/SOURCES.txt
+BotYoutube.egg-info/dependency_links.txt
+BotYoutube.egg-info/requires.txt
+BotYoutube.egg-info/top_level.txt
+BotYoutube/resources/start.png
